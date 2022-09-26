@@ -6,5 +6,4 @@ tensorflow
 keras
 numpy
 matplotlib
-math
 sklearn
